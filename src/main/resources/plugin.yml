@@ -1,0 +1,7 @@
+name: Hana
+version: '${version}'
+main: me.darwj.hana.Hana
+api-version: 1.19
+authors: [ darwj ]
+description: Library with various utilities.
+website: https://www.hanabira-rp.net
